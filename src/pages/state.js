@@ -1,1 +1,0 @@
-const todoListState = atom({})
