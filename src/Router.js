@@ -1,6 +1,6 @@
 import React from 'react';
 import {BrowserRouter, Routes, Route} from 'react-router-dom';
-import DragAndDrop from '../../tdlbackup/components/DragAndDrop';
+import DragAndDrop from "./components/DragAndDrop";
 
 const Router = () => {
 	return (
