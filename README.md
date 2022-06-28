@@ -6,6 +6,6 @@
 ## 기능
 * Add1 버튼 클릭 시 Major Task 생성
 * Add2 버튼 클릭 시 Minor Task 생성
-* Task complete checkbox
+* Task complete checkbox 구현
 * Task 삭제
 * 각 task에 대하여 drag and drop 가능
