@@ -1,7 +1,7 @@
 import {todoListState} from '../store/atoms';
 import {useRecoilState} from 'recoil';
 import {DragDropContext, Droppable} from 'react-beautiful-dnd';
-import TodoList from './TodoList/TodoList';
+import TodoList from "./TodoList/TodoList";
 
 const DragAndDrop = () => {
 	const [todoList, setTodoList] = useRecoilState(todoListState);
